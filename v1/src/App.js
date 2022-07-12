@@ -1,3 +1,4 @@
+import React from "./react";
 import SignIn from "./Components/SignIn";
 import SignUp from "./Components/SignUp";
 import ForgotPassword from "./Components/ForgotPassword";
